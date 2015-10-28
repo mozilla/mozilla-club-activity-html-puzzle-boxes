@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Hack the News Activity](#hack-the-news-activity)
+- [How to localize/translate an activity](#how-to-localizetranslate-an-activity)
+- [Mozilla Clubs](#mozilla-clubs)
+- [Activity Template for Mozilla Clubs Activities](#activity-template-for-mozilla-clubs-activities)
+- [How to use this template](#how-to-use-this-template)
+- [How does this work (internally)](#how-does-this-work-internally)
+- [Challenges](#challenges)
+- [Contributing](#contributing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![logo](activity-data/images/html-puzzleboxes.jpg)
 
 # Hack the News Activity
