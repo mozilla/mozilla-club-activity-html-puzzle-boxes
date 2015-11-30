@@ -3,7 +3,7 @@ title: HTML Puzzle Boxes
 github: mozilla/mozilla-club-activity-html-puzzle-boxes
 image: html-puzzleboxes.jpg
 competencies:
-    - {label: "Composing for the web", type: "composing"}
+  - {label: "Composing for the web", type: "composing"}
 ---
 
 ## [Section 2. Writing the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
