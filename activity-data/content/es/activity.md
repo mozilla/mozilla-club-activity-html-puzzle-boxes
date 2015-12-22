@@ -34,11 +34,11 @@ Haz que los aprendices completen el [cuestionario previo a la actividad](https:/
 
 15<br>min
 
-### Introducción: Fabrica las cajas
+### Introducción: Crea las cajas
 
 <iframe src="https://www.youtube.com/embed/eWXCZNDBl04?rel=0" allowfullscreen="" frameborder="0" height="460px" width="100%"></iframe>
 
-Esta es una actividad muy entretenida pero requiere tiempo. Los aprendices armarán primero sus cajas. Extra: Si el tiempo lo permite, los mentores pueden jugar [HTML Corners](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) usando las cajas para señalar las estaciones.
+Esta es una actividad muy divertida pero toma tiempo. Los aprendices armarán primero sus cajas. Extra: Si el tiempo lo permite, los mentores pueden jugar [HTML Corners](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) usando las cajas para señalar las estaciones.
 
 ![imagen de muestra](http://yopdesign.com/images/webmaker/html-puzzle-box-step-01.jpg)
 
@@ -48,7 +48,7 @@ Esta es una actividad muy entretenida pero requiere tiempo. Los aprendices armar
 
 20<br>min
 
-### Competencia de la caja de rompecabezas HTML
+### Competencia de la caja de rompecabezas de HTML
 
 Primero arma las etiquetas en el orden correcto en un grupo pequeño. Luego, ¡compite!
 
@@ -77,7 +77,7 @@ Esta es la combinación correcta de la estructura de etiquetas HTML.
 
 ### Reflexión: Revisar las etiquetas
 
-Repite el [juego HTML Corners](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) si el tiempo lo permite. O, simplemente deja que los estudiantes digan que significa cada etiqueta.
+Repite el [juego Esquinas de HTML](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) si el tiempo lo permite. O, simplemente deja que los estudiantes digan que significa cada etiqueta.
 
 Extra: Si el tiempo lo permite, muestra las etiquetas en acción apretando "Ver fuente" o usando los Lentes de rayos X en una página web. Extra: Etiqueta tu entorno colocando cajas de rompecabezas HTML mezcladas o notas adhesivas en la habitación como un mezclador de marcado.
 
