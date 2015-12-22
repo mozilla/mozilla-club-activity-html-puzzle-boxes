@@ -12,7 +12,7 @@ competencies:
 
 Hecho por [Yofie Setiawan, Mozilla Indonesia](https://twitter.com/yofiesetiawan) y mezclado para los Clubs por [Mozilla](https://webmaker.org/mentor).
 
-Los aprendices competirán para secuenciar las cajas de papel cubiertas con etiquetas HTML, **familiarizándose con las etiquetas HTML más comunes y con el cómo estructurar una página web**.
+Los aprendices competirán para crear sequencia de las cajas de papel etiquetadas con etiquetas de HTML, **familiarizándose con las etiquetas de HTML más comunes y con el cómo estructurar una página web**.
 
 45 minutos a una hora
 
