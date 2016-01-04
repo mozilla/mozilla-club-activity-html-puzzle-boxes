@@ -20,5 +20,5 @@
 <iframe src="https://www.youtube-nocookie.com/embed/_LFaWJqRi64?t=1m" allowfullscreen="" frameborder="0" height="215px" width="100%"></iframe><br>
                 <a href="https://youtu.be/_LFaWJqRi64?t=1m"><small>Video de la Competencia de la caja de rompecabezas HTML en FOSSASIA en Singapore</small></a>
                 
-Mira también las mezclas de la comunidad
-Revisa las distintas formas en que educadores y activistas han modificado esta actividad para sus audiencias específicas en nuestro [Foto de discusión](http://discourse.webmaker.org/t/testing-2-writing-the-web/1195/3). 
+#### Mira también las mezclas de la comunidad
+Revisa las distintas formas en que educadores y activistas han modificado esta actividad para sus audiencias específicas en nuestro [Foro de discusión](http://discourse.webmaker.org/t/testing-2-writing-the-web/1195/3). 
