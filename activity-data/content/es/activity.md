@@ -12,7 +12,7 @@ competencies:
 
 Hecho por [Yofie Setiawan, Mozilla Indonesia](https://twitter.com/yofiesetiawan) y mezclado para los Clubs por [Mozilla](https://webmaker.org/mentor).
 
-Los aprendices competirán para crear sequencia de las cajas de papel etiquetadas con etiquetas de HTML, **familiarizándose con las etiquetas de HTML más comunes y con el cómo estructurar una página web**.
+Los aprendices competirán para crear sequencia de las cajas de papel clasificadas con etiquetas de HTML, **familiarizándose con las etiquetas de HTML más comunes y con el cómo estructurar una página web**.
 
 45 minutos a una hora
 
@@ -22,7 +22,7 @@ Los aprendices competirán para crear sequencia de las cajas de papel etiquetada
 
 [Imprime a lo menos 12 copias](https://www.dropbox.com/s/lv7u8tqawawudiy/html-puzzle-box.pdf?dl=0) del modelo de la caja de rompecabezas.
 
-> Crear una caja de rompecabezas es muy fácil. Pero debes tener suficientes cajas para realizar el juego, necesitarás a lo menos 12 cajas - para asegurarte de tener cajas suficientes para las etiquetas de apertura y cierre. En total, para un par de jugadores, necesitarás fabricar 24 cajas. Por ello, para construir las 24 cajas, deberás imprimir 12 hojas del modelo.
+> Armar una caja de rompecabezas es muy fácil. Pero debes tener suficientes cajas para realizar el juego, necesitarás a lo menos 12 cajas - para asegurarte de tener cajas suficientes para las etiquetas de apertura y cierre. En total, para un par de jugadores, necesitarás armar 24 cajas. Por ello, para construir las 24 cajas, deberás imprimir 12 hojas del modelo.
 >
 > Es preferible imprimir la caja de rompecabezas en papel grueso, para que sea más fácil ensamblarlo y tenga una mejor calidad.
 >
@@ -38,7 +38,7 @@ Haz que los aprendices completen el [cuestionario previo a la actividad](https:/
 
 <iframe src="https://www.youtube.com/embed/eWXCZNDBl04?rel=0" allowfullscreen="" frameborder="0" height="460px" width="100%"></iframe>
 
-Esta es una actividad muy divertida pero toma tiempo. Los aprendices armarán primero sus cajas. Extra: Si el tiempo lo permite, los mentores pueden jugar [HTML Corners](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) usando las cajas para señalar las estaciones.
+Esta es una actividad muy divertida pero toma tiempo. Los aprendices armarán primero sus cajas. Extra: Si el tiempo lo permite, los mentores pueden jugar [HTML Córner](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) usando las cajas para señalar las estaciones.
 
 ![imagen de muestra](http://yopdesign.com/images/webmaker/html-puzzle-box-step-01.jpg)
 
@@ -77,7 +77,7 @@ Esta es la combinación correcta de la estructura de etiquetas HTML.
 
 ### Reflexión: Revisar las etiquetas
 
-Repite el [juego Esquinas de HTML](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) si el tiempo lo permite. O, simplemente deja que los estudiantes digan que significa cada etiqueta.
+Repite el [Juego Esquinas de HTML | HTML Córner](https://dajbelshaw.makes.org/thimble/MTk0NDI1Njc2OA==/html-corners) si el tiempo lo permite. O, simplemente deja que los estudiantes digan que significa cada etiqueta.
 
 Extra: Si el tiempo lo permite, muestra las etiquetas en acción apretando "Ver fuente" o usando los Lentes de rayos X en una página web. Extra: Etiqueta tu entorno colocando cajas de rompecabezas HTML mezcladas o notas adhesivas en la habitación como un mezclador de marcado.
 
