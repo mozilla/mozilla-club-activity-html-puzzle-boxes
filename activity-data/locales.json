@@ -1,10 +1,10 @@
 [
-  {"name": "Bengali", "code":"bn"},
-  {"name": "Dutch", "code":"nl"},
+  {"name": "বাংলা", "code":"bn"},
+  {"name": "Nederlands", "code":"nl"},
   {"name": "English", "code": "en"},
   {"name": "Español", "code": "es"},
-  {"name": "Filipino", "code": "fil"},
-  {"name": "German", "code": "de"},
-  {"name": "Hindi", "code": "hi"},
+  {"name": "Pilipino", "code": "fil"},
+  {"name": "Deutsch", "code": "de"},
+  {"name": "हिन्द", "code": "hi"},
   {"name": "Português", "code": "pt"}
 ]
