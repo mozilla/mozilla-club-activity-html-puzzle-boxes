@@ -2,8 +2,13 @@
 title: HTML Puzzle Boxes
 github: mozilla/mozilla-club-activity-html-puzzle-boxes
 image: html-puzzleboxes.jpg
+competencies_label: Web Literacy Skills
 competencies:
-  - {label: "Composing for the web", type: "composing"}
+  - {label: "Code", type: "code"}
+  - {label: "Remix", type: "remix"}
+skills_label: 21st Century Skills
+skills: 
+  - {label: "Creativity", type: "creativity"}
 ---
 
 ## [Section 2. Writing the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
